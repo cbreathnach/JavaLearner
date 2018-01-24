@@ -1,0 +1,530 @@
+Logistic Regression Test Results
+
+Data File: /Users/cathalbreathnach/Documents/College/Final Year Eng/Machine Learning/Assignment 3/Java/CT475_Assignment3/owls15.csv
+Output File Name: owlsResults.txt
+
+Data Entries: 135
+Number of Features: 4
+Data Split: 67%
+Train Size: 90
+Test Size: 45
+
+Scaling: ZeroOne
+Learning Rate: 0.05
+Maximum Iterations: 50000
+Convergence Tolerance: 0.00000001
+
+
+
+Run: 1
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:BarnOwl 	Incorrect
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:BarnOwl 	Incorrect
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:BarnOwl 	Incorrect
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+
+Correct: 42 	Incorrect: 3
+Accuracy: 93.333 % 
+
+
+Run: 2
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:SnowyOwl 	Incorrect
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:BarnOwl 	Incorrect
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:SnowyOwl 	Incorrect
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+
+Correct: 42 	Incorrect: 3
+Accuracy: 93.333 % 
+
+
+Run: 3
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+
+Correct: 45 	Incorrect: 0
+Accuracy: 100.000 % 
+
+
+Run: 4
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:SnowyOwl 	Incorrect
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:BarnOwl 	Incorrect
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+
+Correct: 43 	Incorrect: 2
+Accuracy: 95.556 % 
+
+
+Run: 5
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:SnowyOwl 	Incorrect
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:BarnOwl 	Incorrect
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:SnowyOwl 	Incorrect
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:BarnOwl 	Incorrect
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:SnowyOwl 	Incorrect
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+
+Correct: 40 	Incorrect: 5
+Accuracy: 88.889 % 
+
+
+Run: 6
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:SnowyOwl 	Incorrect
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:BarnOwl 	Incorrect
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+
+Correct: 43 	Incorrect: 2
+Accuracy: 95.556 % 
+
+
+Run: 7
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:SnowyOwl 	Incorrect
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:BarnOwl 	Incorrect
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:BarnOwl 	Incorrect
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:BarnOwl 	Incorrect
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+
+Correct: 41 	Incorrect: 4
+Accuracy: 91.111 % 
+
+
+Run: 8
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:BarnOwl 	Incorrect
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+
+Correct: 44 	Incorrect: 1
+Accuracy: 97.778 % 
+
+
+Run: 9
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:SnowyOwl 	Incorrect
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:BarnOwl 	Incorrect
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+
+Correct: 43 	Incorrect: 2
+Accuracy: 95.556 % 
+
+
+Run: 10
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:BarnOwl 	Incorrect
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:BarnOwl 	Predicted:BarnOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+Expected:SnowyOwl 	Predicted:SnowyOwl 	Correct
+Expected:LongEaredOwl 	Predicted:LongEaredOwl 	Correct
+
+Correct: 44 	Incorrect: 1
+Accuracy: 97.778 % 
+
+
+Train Accuracy Average: 95.89%, Standard Deviation: ± 1.32%
+Test Accuracy Average: 94.89%, Standard Deviation: ± 3.15%

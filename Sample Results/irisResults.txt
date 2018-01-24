@@ -1,0 +1,580 @@
+Logistic Regression Test Results
+
+Data File: /Users/cathalbreathnach/Documents/College/Final Year Eng/Machine Learning/Assignment 3/Java/CT475_Assignment3/iris.csv
+Output File Name: irisResults.txt
+
+Data Entries: 150
+Number of Features: 4
+Data Split: 67%
+Train Size: 100
+Test Size: 50
+
+Scaling: NoScale
+Learning Rate: 0.05
+Maximum Iterations: 50000
+Convergence Tolerance: 0.00000001
+
+
+
+Run: 1
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-versicolor 	Incorrect
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+
+Correct: 49 	Incorrect: 1
+Accuracy: 98.000 % 
+
+
+Run: 2
+Expected:Iris-virginica 	Predicted:Iris-versicolor 	Incorrect
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-virginica 	Incorrect
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-virginica 	Incorrect
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-versicolor 	Incorrect
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-versicolor 	Incorrect
+
+Correct: 45 	Incorrect: 5
+Accuracy: 90.000 % 
+
+
+Run: 3
+Expected:Iris-virginica 	Predicted:Iris-versicolor 	Incorrect
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-virginica 	Incorrect
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+
+Correct: 48 	Incorrect: 2
+Accuracy: 96.000 % 
+
+
+Run: 4
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-virginica 	Incorrect
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+
+Correct: 49 	Incorrect: 1
+Accuracy: 98.000 % 
+
+
+Run: 5
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-virginica 	Incorrect
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+
+Correct: 49 	Incorrect: 1
+Accuracy: 98.000 % 
+
+
+Run: 6
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-virginica 	Incorrect
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-versicolor 	Incorrect
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-versicolor 	Incorrect
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+
+Correct: 47 	Incorrect: 3
+Accuracy: 94.000 % 
+
+
+Run: 7
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-versicolor 	Incorrect
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-versicolor 	Incorrect
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+
+Correct: 48 	Incorrect: 2
+Accuracy: 96.000 % 
+
+
+Run: 8
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-virginica 	Incorrect
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+
+Correct: 49 	Incorrect: 1
+Accuracy: 98.000 % 
+
+
+Run: 9
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-virginica 	Incorrect
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-versicolor 	Incorrect
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-virginica 	Incorrect
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+
+Correct: 47 	Incorrect: 3
+Accuracy: 94.000 % 
+
+
+Run: 10
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-versicolor 	Predicted:Iris-versicolor 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-virginica 	Predicted:Iris-virginica 	Correct
+Expected:Iris-setosa 	Predicted:Iris-setosa 	Correct
+
+Correct: 50 	Incorrect: 0
+Accuracy: 100.000 % 
+
+
+Train Accuracy Average: 96.90%, Standard Deviation: ± 1.58%
+Test Accuracy Average: 96.20%, Standard Deviation: ± 2.75%
